@@ -285,6 +285,10 @@ Go ahead and have fun making pretty stuff :D 🎨
 
 Submit screenshots of your final pages (both p5.js & Raphaël), especially fun drawings!
 
+![](./screenshot1.png)
+
+![](./screenshot2.png)
+
 ## Sources
 * https://p5js.org/
 * https://codepen.io/collection/DRzkdM/
